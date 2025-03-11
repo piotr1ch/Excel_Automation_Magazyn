@@ -13,9 +13,7 @@ Plik zawiera 3 arkusze:
 - Formularz dodatkowo jest zabezpieczony walidacją danych aby można było wybrać tylko przedmioty dostępne w magazynie.
 - Formatowanie warunkowe wskazuje komórki, które należy jeszcze wypełnić.
 
-![FormularzG](Formularz.gif)
-
-![Formularz](assets/Formularz.png)
+![Formularz2](assets/Formularz.gif)
 
 ### 2. Raport
 - Pierwsza tabela Wyświetla aktualny stan magazynu w formie dynamicznej tabeli.
@@ -235,9 +233,6 @@ End Sub
 - **Excel:** – dynamiczne formuły, tabele
 - **VBA:** – makra zapisujące dane do arkusza Dane
 - **Automatyzacja:** – minimalizacja ręcznego wprowadzania danych
-
-## Screenshoty
-
 
 ## Jak używać?
 
